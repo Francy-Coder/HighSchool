@@ -1,2 +1,2 @@
 # Info
-Repository contenente il materiale didattico (settore informatico) della scuola superiore [OSDB](https://www.salesianisesto.it/)
+Repository containing the teaching material (IT sector) of the [OSDB](https://www.salesianisesto.it/) high school. 
