@@ -1,5 +1,4 @@
-# Repository x Studio Individuale
-Youtubers Goated:
+# Youtubers Goated
 - https://www.youtube.com/@BroCodez
 
 - https://www.youtube.com/@CodingWithJohn

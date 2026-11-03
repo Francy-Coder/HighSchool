@@ -1,3 +1,3 @@
-terminale bash:
+Nel terminale bash:
 npm init -y
 npm install express
